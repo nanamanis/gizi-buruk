@@ -1,4 +1,4 @@
-import git as st
+import streamlit as st
 import matplotlib.pyplot as plt
 
 # ---------------------------------------------------------
